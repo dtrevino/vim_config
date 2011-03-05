@@ -3,7 +3,7 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""
 
 " use the solarized colorscheme
-set background=dark
+set background=light
 colorscheme solarized
 
 set laststatus=2   " always display a status line
