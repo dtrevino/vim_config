@@ -94,3 +94,6 @@
 [submodule "home/.vim/bundle/taglist.vim"]
 	path = home/.vim/bundle/taglist.vim
 	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "home/.vim/bundle/matchit"]
+	path = home/.vim/bundle/matchit
+	url = https://github.com/vim-scripts/matchit.zip.git
